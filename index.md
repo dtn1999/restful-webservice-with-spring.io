@@ -22,7 +22,7 @@ before we start with the real implementation of this project let's talk about RE
 As mentioned before REST is a software architecture for creating scalable Web Services. The main principles of REST are:
 
 - **Uniform interface**
-  Resources are at the core of REST and each resource is identified by a Uniform Resource Identifier([URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)). The format of resource exchange between devices or system is not fixed by the protocol. But the mostly used format are [XML](https://en.wikipedia.org/wiki/XML) and [JSON]https://en.wikipedia.org/wiki/JSON.
+  Resources are at the core of REST and each resource is identified by a Uniform Resource Identifier([URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)). The format of resource exchange between devices or system is not fixed by the protocol. But the mostly used format are [XML](https://en.wikipedia.org/wiki/XML) and [JSON](https://en.wikipedia.org/wiki/JSON).
   Finally, clients interact entirely through hypermedia, which is dynamically provided by the application servers. The endpoints are the only knowledge that a client need in order to communicate with a RESTFul Service. This constraint is referred as [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS).
 
 - **Client-Server**
