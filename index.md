@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## RESTFul Web Service With Spring
+
+__The goal of this project is to practice and apply concepts learned from the book Building a RESTFul Web Service With Spring by the author Ludovic Dewailly. The design of the Web service I will implement here are taken from his book.__
+
+before getting to the heart of the matter, let me briefly introduce you to what a web service is and what REST and its Principles are all about.
+
+### What is a Web Service ?
+
+
 
 You can use the [editor on GitHub](https://github.com/dtn1999/restful-with-spring/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
